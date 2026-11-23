@@ -29,17 +29,17 @@ This repository is the **Next.js frontend**. The REST API lives in a separate re
 
 | Dashboard | Dashboard (dark) |
 |---|---|
-| ![Dashboard](/screenshots/desktop-dashboard.png) | ![Dashboard dark mode](docs/screenshots/desktop-dashboard-dark.png) |
+| ![Dashboard](/screenshots/desktop-dashboard.png) | ![Dashboard dark mode](/screenshots/desktop-dashboard-dark.png) |
 | **Doctors (filtered)** | **Doctor details** |
-| ![Doctors](docs/screenshots/desktop-doctors.png) | ![Doctor details](docs/screenshots/desktop-doctor-detail.png) |
+| ![Doctors](/screenshots/desktop-doctors.png) | ![Doctor details](/screenshots/desktop-doctor-detail.png) |
 | **Patients (filtered)** | **Login** |
-| ![Patients](docs/screenshots/desktop-patients.png) | ![Login](docs/screenshots/desktop-login.png) |
+| ![Patients](/screenshots/desktop-patients.png) | ![Login](/screenshots/desktop-login.png) |
 
 ### Mobile
 
 | Dashboard | Doctors | Navigation | Add patient |
 |---|---|---|---|
-| ![Mobile dashboard](docs/screenshots/mobile-dashboard.png) | ![Mobile doctors](docs/screenshots/mobile-doctors.png) | ![Mobile navigation](docs/screenshots/mobile-nav.png) | ![Mobile form](docs/screenshots/mobile-form.png) |
+| ![Mobile dashboard](/screenshots/mobile-dashboard.png) | ![Mobile doctors](/screenshots/mobile-doctors.png) | ![Mobile navigation](/screenshots/mobile-nav.png) | ![Mobile form](/screenshots/mobile-form.png) |
 
 ## Tech stack
 
