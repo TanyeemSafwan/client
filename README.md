@@ -29,7 +29,7 @@ This repository is the **Next.js frontend**. The REST API lives in a separate re
 
 | Dashboard | Dashboard (dark) |
 |---|---|
-| ![Dashboard](docs/screenshots/desktop-dashboard.png) | ![Dashboard dark mode](docs/screenshots/desktop-dashboard-dark.png) |
+| ![Dashboard](/screenshots/desktop-dashboard.png) | ![Dashboard dark mode](docs/screenshots/desktop-dashboard-dark.png) |
 | **Doctors (filtered)** | **Doctor details** |
 | ![Doctors](docs/screenshots/desktop-doctors.png) | ![Doctor details](docs/screenshots/desktop-doctor-detail.png) |
 | **Patients (filtered)** | **Login** |
